@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 8 Jan 25
+
+### Added
+
+- ManipulatedVariablesStamped & StatesStamped msg type for timestamping purposes
+
 ## [0.1.0] - 1 Nov 24
 
 ### Added
